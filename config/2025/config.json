@@ -306,7 +306,7 @@
           "required": false,
           "code": "co",
           "formResetBehavior": "reset",
-          "defaultValue": "",
+          "defaultValue": ".",
           "min": 0,
           "max": 3000
         }
