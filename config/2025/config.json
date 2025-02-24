@@ -98,6 +98,7 @@
       "fields": [
         {
           "title": "Line Cross",
+          "description": "Did the robot cross the line during autonomous.",
           "type": "select",
           "required": false,
           "code": "YN",
